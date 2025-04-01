@@ -2,6 +2,12 @@
 
 这是一个基于 FastAPI 和 LangChain 开发的智能算命大师聊天机器人系统。该系统模拟了一个有趣的算命先生角色，能够与用户进行自然对话，并提供算命、解梦等服务。
 
+## 技术架构 
+![技术架构](https://github.com/oy2020/tgBot/blob/main/%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84%E5%9B%BE/%E9%A1%B9%E7%9B%AE%E6%9E%B6%E6%9E%84.jpg)
+
+## 实时效果
+![实时效果](https://github.com/oy2020/tgBot/blob/main/%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84%E5%9B%BE/%E5%AE%9E%E6%97%B6%E6%95%88%E6%9E%9C.png)
+
 ## 主要功能
 
 1. **情感智能对话**
@@ -54,10 +60,6 @@
     redis-server
     python server.py
     python tele.py
-
-## API 接口说明
-
-
 
 
 ## 注意事项
